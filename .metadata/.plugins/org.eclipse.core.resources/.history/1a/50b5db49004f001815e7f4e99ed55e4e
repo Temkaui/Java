@@ -1,0 +1,13 @@
+
+public class Human {
+	protected int strength;
+	protected int intelligence;
+	protected int stealth;
+	protected int health;
+	private void Human() {
+		this.intelligence = 3;
+		this.strength = 3;
+		this.stealth = 3;
+		this.health = 100
+	}
+}

@@ -1,0 +1,12 @@
+
+public class Dragon extends Mammal{
+	public Dragon() {
+		this.energyLevel = 300;
+	}
+	public void fly() {
+		System.out.println("Dragon is flying");
+		this.energyLevel -= 50;
+	}
+	
+
+}

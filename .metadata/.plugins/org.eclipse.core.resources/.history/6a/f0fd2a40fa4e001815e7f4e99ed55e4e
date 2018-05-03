@@ -1,0 +1,8 @@
+
+public class GorillaTest {
+	public static void main(String[] args) {
+		Gorilla gorilla1 = new Gorilla(100);
+		
+	}
+
+}

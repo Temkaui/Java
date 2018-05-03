@@ -1,0 +1,12 @@
+
+public class Gorilla {
+	public throwSomething() {
+		
+	}
+	public eatBananas() {
+		
+	}
+	public climb() {
+		
+	}
+}

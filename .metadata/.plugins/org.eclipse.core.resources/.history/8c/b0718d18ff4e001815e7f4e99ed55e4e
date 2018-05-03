@@ -1,0 +1,11 @@
+
+public class DragonTest {
+
+	public static void main(String[] args) {
+		Dragon dragon1 = new Dragon();
+		dragon.attackTown();
+		dragon.displayEnergy();
+
+	}
+
+}

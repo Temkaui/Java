@@ -1,0 +1,4 @@
+INDEX VERSION 1.130+/Volumes/Temka/GitHub/STS/.metadata/.plugins/org.eclipse.jdt.core
+3865976396.index
+4226078852.index
+2094519632.index

@@ -1,0 +1,10 @@
+
+public class Ninja extends Human {
+	public Ninja() {
+		this.stealth = 10;
+	}
+	
+	public void steal(this.stealth) {
+		
+	}
+}

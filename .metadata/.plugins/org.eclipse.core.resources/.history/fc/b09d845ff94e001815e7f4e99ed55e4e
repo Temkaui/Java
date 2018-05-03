@@ -1,0 +1,12 @@
+
+public class Gorilla extends Mammal {
+	public throwSomething() {
+		
+	}
+	public eatBananas() {
+		
+	}
+	public climb() {
+		
+	}
+}
